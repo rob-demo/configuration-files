@@ -48,7 +48,7 @@ body:
         - label: This one!
           required: true
         - label: I won't stop you if you check this one, too
-- type: markdown
+  - type: markdown
     attributes:
       value: |
         ### The thrilling conclusion
