@@ -49,7 +49,7 @@ body:
           required: true
         - label: I won't stop you if you check this one, too
   - type: markdown
-      attributes:
-        value: |
-          ### The thrilling conclusion
-          _to our template_
+    attributes:
+      value: |
+        ### The thrilling conclusion
+        _to our template_
