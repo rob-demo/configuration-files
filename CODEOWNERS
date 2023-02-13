@@ -1,5 +1,0 @@
-# all files are owned by a specific team
-*         @rob-demo/devops
-
-# the files in the docs folder need extra signoff by another user
-/docs	    @rob-bos-demo
