@@ -1,6 +1,8 @@
 name: GitHub Actions Demo
 on: 
   push:
+    paths:
+    - .github/workflows/demo.yml
 
 jobs:
   Explore-GitHub-Actions:
