@@ -5,3 +5,4 @@ Example file in the docs folder
 - Feature 3
 
 - Bug 1
+- Bug 2
